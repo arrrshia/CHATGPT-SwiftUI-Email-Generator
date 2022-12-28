@@ -23,7 +23,7 @@
 
 Calls to the OpenAI API every time parameters are passed and the generate button is pressed, leading to an editable page where the email can be modified and shared.
 
-<img src="https://giphy.com/gifs/CyRxXToRH8ulFZlm49" width="260" height="585">
+<img src="[https://giphy.com/gifs/CyRxXToRH8ulFZlm49](https://media.giphy.com/media/CyRxXToRH8ulFZlm49/giphy.gif)" width="260" height="585">
 
 
 ### Built With
