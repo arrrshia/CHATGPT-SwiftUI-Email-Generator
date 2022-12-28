@@ -63,7 +63,7 @@ Can be used for:
 <!-- ROADMAP -->
 ## Roadmap
 
-- [ ] Coming Soon
+- [ ] Adding a list of recently generated emails per user, either using authentication or coredata
 
 See the [open issues](https://github.com/arrrshia/CHATGPT-SwiftUI-Email-Generator/issues) for a full list of proposed features (and known issues).
 
